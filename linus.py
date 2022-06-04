@@ -1,5 +1,6 @@
 import pygame
 
+"""新加一行"""
 class Linus:
     """管理linus的类"""
 
